@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/IconPrefix1">
+        <file>Icons/add_121935.ico</file>
+        <file>Icons/bin_121907.ico</file>
+        <file>Icons/edit_121852.ico</file>
+        <file>Icons/glasses_121835.ico</file>
+        <file>Icons/power_121775.ico</file>
+        <file>Icons/save_121760.ico</file>
+        <file>Icons/search_121759.ico</file>
+        <file>Icons/sticker_121741.ico</file>
+        <file>Icons/shuffle_121752.ico</file>
+        <file>Icons/help_121828.ico</file>
+        <file>Icons/openfile.ico</file>
+        <file>Icons/saveAs.ico</file>
+        <file>Icons/saveAs+.ico</file>
+        <file>Icons/txt.ico</file>
+        <file>Icons/notebook_121787.ico</file>
+    </qresource>
+</RCC>
